@@ -101,7 +101,7 @@ This file is read by `main.go`, and each URL is submitted as a job to the worker
 
 ---
 
-## ⚡ How It Works
+## How It Works
 
 1. **Startup**
 
@@ -159,7 +159,7 @@ This file is read by `main.go`, and each URL is submitted as a job to the worker
    go run main.go
    ```
 
-4. Expected output:
+4. Outputs should look like this depending on you urls:
 
    ```
    Worker 1: Fetched https://example.com, length: 1256
